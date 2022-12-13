@@ -18,6 +18,8 @@ namespace DataStructures
             list.Add(5);
 
             list.Delete(3);
+            Stack<int> stack = new Stack<int>();
+            
         }
     }
 }

@@ -43,8 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\ArrayStack.cs" />
     <Compile Include="Model\Item.cs" />
+    <Compile Include="Model\ItemStack.cs" />
     <Compile Include="Model\LinkedList.cs" />
+    <Compile Include="Model\LinkedStack.cs" />
+    <Compile Include="Model\Stack.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
